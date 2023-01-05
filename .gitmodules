@@ -1,0 +1,3 @@
+[submodule "deforum-stable-diffusion"]
+	path = deforum-stable-diffusion
+	url = git@github.com:feynlee/deforum-stable-diffusion.git
